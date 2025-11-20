@@ -12,7 +12,6 @@ This project combines traditional image processing, deep learning feature extrac
   <img src="https://img.shields.io/badge/Accuracy-~0.88-lightgrey.svg">
   <img src="https://img.shields.io/badge/License-MIT-black.svg">
 </p>
----
 
 ## *Overview*
 
